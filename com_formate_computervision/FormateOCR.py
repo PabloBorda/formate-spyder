@@ -7,8 +7,5 @@ from com_formate_computervision.FormateComputerVision import FormateComputerVisi
 
 class FormateOCR(FormateComputerVision):
 
-	def __init__(self):
-		pass
-
 	def shoot(self, image=None):
 		pass

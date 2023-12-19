@@ -1,0 +1,119 @@
+2021-03-23 13:09:10.407386,MAIN THREAD,refresh,0
+2021-03-23 13:09:10.591806,MAIN THREAD,refresh,0
+2021-03-23 13:09:10.962237,MAIN THREAD,refresh,0
+2021-03-23 13:09:36.064384,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 25.656696796417236
+2021-03-23 13:09:36.089265,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:09:38.102244,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 2.0261619091033936
+2021-03-23 13:09:42.248014,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:09:42.252230,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_180_9_6720_2099]
+2021-03-23 13:09:42.262753,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:09:44.240018,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 1.9814221858978271
+2021-03-23 13:09:44.275840,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:09:44.276142,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:09:47.046877,MAIN THREAD,refresh,0
+2021-03-23 13:09:48.418882,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 4.1127190589904785
+2021-03-23 13:09:54.068757,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_125_47_6701_2087]
+2021-03-23 13:09:54.076476,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:09:54.179396,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:09:57.346655,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 3.1375491619110107
+2021-03-23 13:09:57.553377,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:09:57.686171,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:10:02.611181,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 4.597313165664673
+2021-03-23 13:10:09.632081,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_358_50_6720_2087]
+2021-03-23 13:10:09.677197,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:10:09.691885,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:10:14.216096,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 4.1194541454315186
+2021-03-23 13:10:14.453601,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:10:14.712337,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:10:19.621911,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 4.839082956314087
+2021-03-23 13:10:26.219206,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_358_239_6701_2087]
+2021-03-23 13:10:26.261655,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:10:26.299062,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:10:31.112425,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 4.2655189037323
+2021-03-23 13:10:31.679848,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:10:31.863998,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:10:39.398567,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 7.569746732711792
+2021-03-23 13:11:06.150520,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:11:06.578852,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_0_50_6720_2087]
+2021-03-23 13:11:07.093017,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:11:14.261929,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 7.345918893814087
+2021-03-23 13:11:15.155185,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:11:15.341458,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:11:29.211300,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 13.334323167800903
+2021-03-23 13:11:39.862214,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:11:39.876013,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_187_50_6720_2087]
+2021-03-23 13:11:39.996222,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:11:48.183478,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 8.093010902404785
+2021-03-23 13:11:48.691093,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:11:48.802184,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:12:00.449121,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 11.671748876571655
+2021-03-23 13:12:11.933293,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:12:11.979015,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_0_50_6720_2087]
+2021-03-23 13:12:12.064628,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:12:20.819404,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 8.029884099960327
+2021-03-23 13:12:21.462613,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:12:22.069435,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:12:35.583912,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 14.020968914031982
+2021-03-23 13:12:47.989245,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:12:48.019025,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_282_282_6701_2087]
+2021-03-23 13:12:48.288320,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:13:00.621863,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 11.323300123214722
+2021-03-23 13:13:01.707505,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:13:02.209308,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:13:45.158456,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 43.705435037612915
+2021-03-23 13:14:05.529077,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_0_11_6701_2087]
+2021-03-23 13:14:05.693011,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:14:06.195982,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:14:19.554183,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 12.209189891815186
+2021-03-23 13:14:21.612343,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:14:22.367366,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:15:05.120515,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 43.260274171829224
+2021-03-23 13:15:05.774875,MAIN THREAD,refresh,0
+2021-03-23 13:15:15.217945,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:15:15.544875,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_40_201_6701_2087]
+2021-03-23 13:15:16.081499,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:15:44.415416,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 26.929544925689697
+2021-03-23 13:15:46.808651,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:15:47.534828,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:16:29.132412,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 42.114952087402344
+2021-03-23 13:16:42.750331,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:16:42.902237,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_0_47_6701_2087]
+2021-03-23 13:16:43.009035,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:16:52.463076,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 9.529719114303589
+2021-03-23 13:16:52.995425,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:16:53.063306,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:17:05.210588,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 11.501621961593628
+2021-03-23 13:17:18.100300,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_101_203_6701_2087]
+2021-03-23 13:17:18.241686,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:17:18.259689,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:17:32.347922,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 12.662623882293701
+2021-03-23 13:17:33.102272,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:17:33.238154,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:17:48.401928,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 14.79138708114624
+2021-03-23 13:18:01.656010,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_0_50_6720_2087]
+2021-03-23 13:18:01.757164,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:18:02.287584,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:18:46.839599,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 33.6870801448822
+2021-03-23 13:18:48.597592,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:18:49.032993,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:19:04.765564,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 15.985031843185425
+2021-03-23 13:19:26.210949,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_38_50_6720_2087]
+2021-03-23 13:19:26.242221,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:19:26.532824,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:19:35.411997,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 8.916193008422852
+2021-03-23 13:20:49.374056,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:20:52.376593,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:21:17.647372,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 28.732147932052612
+2021-03-23 13:21:31.575827,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:21:31.636666,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_0_8_6701_2087]
+2021-03-23 13:21:32.169943,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:21:44.310193,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 12.583893060684204
+2021-03-23 13:21:45.199651,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:21:45.564659,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:21:53.188141,SCREENSHOT THREAD, Time take from FormateScreenshotReader 2, 8.002068042755127
+2021-03-23 13:22:07.046150,FormateScreenshot.py, going up to find parent screenshot for [screenshot_reader_172_52_6701_2087]
+2021-03-23 13:22:07.233658,MAIN THREAD,render button from screenshot,0
+2021-03-23 13:22:07.261330,SCREENSHOT THREAD, Screen change detection [[screenshot_reader_0_0_3360_1080]], 0
+2021-03-23 13:22:19.772753,SCREENSHOT THREAD, Time take from FormateScreenshotReader 1, 11.862319231033325
+2021-03-23 13:22:21.386057,FormateScreenshot.py, replace [screenshot_reader_0_0_3360_1080] by [screenshot_reader_0_0_3360_1080]
+2021-03-23 13:22:21.428973,MAIN THREAD,render button from screenshot,0

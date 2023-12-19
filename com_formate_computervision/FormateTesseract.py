@@ -1,6 +1,7 @@
-from PyQt5.QtCore import pyqtSignal, QThread
+from datetime import datetime
 
-from com_formate_computervision.FormateOCR import FormateOCR
+from PyQt5 import QtCore
+from PyQt5.QtCore import pyqtSignal, QThread
 import numpy
 from PIL import ImageGrab
 from imutils.object_detection import non_max_suppression
@@ -14,25 +15,26 @@ import re
 import pyautogui
 import sys
 
-from com_formate_glass.FormateButton import FormateButton
+from com_formate_computervision.FormateReadNeuralNet import FormateReadNeuralNet
 from com_formate_glass.FormateRect import FormateRect
-
+from com_formate_logs.FormateLogger import FormateLogger
+from com_formate_logs.FormateLogEntry import FormateLogEntry
 
 class FormateTesseract(QThread):
-    shoot_text_to_glass_signal = pyqtSignal(FormateRect)
 
-    def __init__(self, window):
-        QThread.__init__(self)
+    net = FormateReadNeuralNet.net
+    
+    new_element_detected = pyqtSignal(FormateRect)
+
+    def __init__(self, glass, parent=None,rect=None):
+        super().__init__()
         pytesseract.pytesseract.tesseract_cmd = r'tesseract'
-        self.parent = window
-        # load the pre-trained EAST text detector
-        # print("[INFO] loading EAST text detector...")
+        self.running_shoot = True
+        self.image = rect.im
+        self.rect_to_process = rect
+        self.elements_found = []
+       
 
-        start = time.time()
-        self.net = cv2.dnn.readNet('frozen_east_text_detection.pb')
-        end = time.time()
-        print("Time READ neural network detector training file: " + str(end - start))
-        self.rect_ocr_reading_scheduler = []
 
     def decode_predictions(self, scores, geometry):
         # grab the number of rows and columns from the scores volume, then
@@ -93,7 +95,7 @@ class FormateTesseract(QThread):
 
     # def optimize_image_for_ocr(self,image):
 
-    def shoot_around_mouse(self, window):
+    def shoot_around_mouse(self, glass):
 
         rows_per_screen = 8
         screenWidth, screenHeight = pyautogui.size()  # Get the size of the primary monitor.
@@ -103,7 +105,7 @@ class FormateTesseract(QThread):
             current_row_number = int(screenHeight / mouse_y)
             previous_rows_sum_height = int(current_row_number * row_height)
             button_rect[0][1] = button_rect[0][1] + previous_rows_sum_height
-            return button_rect;
+            return button_rect
 
         def row_number_to_global_coordinates(rownumber):
             row_height_in_pixels = screenHeight / rows_per_screen
@@ -111,10 +113,10 @@ class FormateTesseract(QThread):
 
         while True:
             currentMouseX, currentMouseY = pyautogui.position()  # Get the XY position of the mouse.
-            print("Mouse position:" + str(currentMouseX) + "," + str(currentMouseY))
+            #print("Mouse position:" + str(currentMouseX) + "," + str(currentMouseY))
             screen_row_number = int(currentMouseY / (
                     screenHeight / rows_per_screen))  # We divide the screen in 8 rows and have priority to update the row where the mouse is present and the one before and the one after
-            print("Screen row number: " + str(screen_row_number))
+            #print("Screen row number: " + str(screen_row_number))
             area_around_mouse_width = screenWidth * 2
             area_around_mouse_height = (screenHeight * 2 / rows_per_screen)
 
@@ -131,56 +133,14 @@ class FormateTesseract(QThread):
                 lambda button_rect: to_global_coordinates(button_rect=button_rect, mouse_x=currentMouseX,
                                                           mouse_y=currentMouseY), content_to_buttonize_parsed_json))
             end = time.time()
-            print("Time OCR: " + str(end - start))
-            window.buttonize(content_to_buttonize)
+            #print("Time OCR: " + str(end - start))
+            glass.buttonize(content_to_buttonize)
 
     def shoot(self, image=None):
-        currentMouseX, currentMouseY = pyautogui.position()
-        print("Current mouse position,"+str(currentMouseX),str(currentMouseY))
-        start = time.time()
-        self.rect_ocr_reading_scheduler = self.find_rectangles_where_there_is_text(image)
-        end = time.time()
-        print("Find rectangles from screenshot time, " + str(end - start))
-
-        self.rect_ocr_reading_scheduler.sort(key=lambda image_rect: ((abs(image_rect.x - currentMouseX) + abs(image_rect.y - currentMouseY))+((image_rect.x - image_rect.w) * (image_rect.y - image_rect.h))), reverse=False)   # Sort image pieces by distance to the mouse pointer and by rectangle size
-        for each_target_rectangle in self.rect_ocr_reading_scheduler:
-            each_target_rectangle.text = self.normalize_text(self.get_text_at_position(each_target_rectangle.im))
-            self.shoot_text_to_glass_signal.emit(each_target_rectangle)
-
-
-
-
-
-    def find_rectangles_where_there_is_text(self, image=None):
-        # load the input image and grab the image dimensions
-
-        if (image is None):
-            start = time.time()
-            if ("Windows" in sys.platform):
-                im = ImageGrab.grab(all_screens=True)
-            else:
-                im = ImageGrab.grab(all_screens=False)
-            end = time.time()
-            print("Take Screenshot() time, " + str(end - start))
-            # im.save("result.png")
-            # print("my size is" + str(im.size))
-            im_size_width, im_size_height = im.size
-            new_size = (int(im_size_width / 1), int(im_size_height / 1))
-            im_resized = im.resize(new_size)
-            # im_resized.save("result_half_size.png")
-            start = time.time()
-            im = im_resized.convert(mode="L")
-            end = time.time()
-            print("Convert Image to grayscale, " + str(end - start))
-
-        # im.save("resultL.png")
-        # im = im_resized.convert(mode="1")
-        # im.save("result1.png")
-        else:
-            im = image
-
+        self.running_shoot = True
+        #   print("TESSERACT THREAD: Execute shoot from FormateTesseract")
+        im = image
         image_bytes_array = numpy.array(im).copy()
-
         # image = cv2.imdecode(np.fromstring(image_bytes_array, np.uint8), cv2.IMREAD_GRAYSCALE)
 
         image = cv2.cvtColor(image_bytes_array, cv2.COLOR_GRAY2BGR)
@@ -240,10 +200,13 @@ class FormateTesseract(QThread):
 
             # extract the actual padded ROI
             roi = orig[startY:endY, startX:endX]
-
-            self.rect_ocr_reading_scheduler.append(FormateRect(startX, startY, endX, endY, "text_to_detect", roi))
-
-        return self.rect_ocr_reading_scheduler
+            
+            text_to_render = FormateRect(startX, startY, endX, endY, "text_to_detect", self.get_text_at_position(roi))
+            self.elements_found.append(text_to_render)
+            self.new_element_detected.emit(text_to_render)
+            FormateLogger.log(FormateLogEntry(thread_name="FormateTesseract.py",description="Decode text from rect position",rect_involved=str(FormateRect(str(startX),str(startY),str(endX),str(endY)))))
+        self.running_shoot = False
+        return self.elements_found
 
     def normalize_text(self, str):
         return re.sub(r'\W+', '', str)
@@ -252,16 +215,13 @@ class FormateTesseract(QThread):
         start = time.time()
         text = pytesseract.image_to_string(roi, config='-l eng --oem 1 --psm 7')
         end = time.time()
-        print("Decode text from rect," + str(end - start) + "," + text)
+        FormateLogger.log(FormateLogEntry(thread_name="FormateTesseract.py",description="Decode text from rect",processing_time=str(end - start)))
         return text
 
-    def run(self):
-        while True:
-            print("i am running from a QT thread")
-            start = time.time()
-            self.shoot()
-            end = time.time()
-            print("Time to read text from screenshot shoot(): " + str(end - start))
+    def is_running_shoot(self):
+        return self.running_shoot
 
-# cv2.imshow("Text Detection", output)
-# cv2.waitKey(0)
+    def run(self):
+        self.shoot(image=self.formate_rect.im)
+            
+

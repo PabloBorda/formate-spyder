@@ -1,58 +1,55 @@
-
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
+from PyQt5.QtCore import QCoreApplication
 
 import sys
 
 from com_formate_glass.FormateTransparentGlass import FormateTransparentGlass
+from com_formate_logs.FormateLogger import FormateLogger
+from com_formate_computervision.FormateScreenReaderMss import FormateScreenReaderMss
 
 
 class FormateApp:
+    
 
-	def __init__(self):
-		print("Formate App Constructor")
+    glass = None
 
-	def settings_dialog(self):
-		print("Settings Dialog Selected")
+    def __init__(self):
 
-	def run(self):
-		button_references = []
 
-		# create pyqt5 app
-		App = QApplication(sys.argv)
+        App = QApplication(sys.argv)
+        
+        # Adding an icon
+        self.icon = QIcon("formate.png")
 
-		# Adding an icon
-		icon = QIcon("formate.png")
+        # Adding item on the menu bar
+        self.tray = QSystemTrayIcon()
+        self.tray.setIcon(self.icon)
+        self.tray.setVisible(True)
 
-		# Adding item on the menu bar
-		tray = QSystemTrayIcon()
-		tray.setIcon(icon)
-		tray.setVisible(True)
+        # Creating the options
+        self.menu = QMenu()
+        self.settings_menu_item = QAction("ForMate Settings...")
+        self.settings_menu_item.triggered.connect(self.settings_dialog)
+        self. menu.addAction(self.settings_menu_item)
 
-		# Creating the options
-		menu = QMenu()
-		settings_menu_item = QAction("ForMate Settings...")
-		settings_menu_item.triggered.connect(self.settings_dialog)
-		menu.addAction(settings_menu_item)
+        # To quit the app
+        self.quit = QAction("Quit")
+        self.quit.triggered.connect(App.quit)
+        self.menu.addAction(self.quit)
 
-		# To quit the app
-		quit = QAction("Quit")
-		quit.triggered.connect(App.quit)
-		menu.addAction(quit)
+        # Adding options to the System Tray
+        self.tray.setContextMenu(self.menu)
 
-		# Adding options to the System Tray
-		tray.setContextMenu(menu)
+        # create the instance of our Glass implemented using a Qt transparent window
+        
+        self.transparent_glass = FormateTransparentGlass()
+        
 
-		# Get current screen size
-		screen = App.primaryScreen()
-		print('Screen: %s' % screen.name())
-		size = screen.size()
-		print('Size: %d x %d' % (size.width(), size.height()))
-		rect = screen.availableGeometry()
-		print('Available: %d x %d' % (rect.width(), rect.height()))
+        # start the app
+        sys.exit(App.exec())
 
-		# create the instance of our Window
-		window = FormateTransparentGlass(size.width(), size.height())
+    def settings_dialog(self):
+        FormateLogger.log(FormateLogEntry(thread_name="FormateApp.py",description="Settings Dialog Selected"))    
 
-		# start the app
-		sys.exit(App.exec())
+

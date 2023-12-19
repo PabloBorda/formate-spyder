@@ -1,0 +1,226 @@
+20210329114123,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114123,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114124,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114124,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,0.43514418601989746
+20210329114124,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114145,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,21.03610873222351
+20210329114223,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114223,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114223,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114244,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114244,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,20.657809257507324
+20210329114244,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114244_a.png"><img src="/images/20210329114244_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114244,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114246,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,2.0012829303741455
+20210329114249,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114244_a.png"><img src="/images/20210329114244_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114249,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114244_d.png"><img src="/images/20210329114244_d.png" width="400px"></a>,screenshot_reader,0,11,6720,2160,None,None,0,0,0,0,0
+20210329114249,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114244_d.png"><img src="/images/20210329114244_d.png" width="400px"></a>,screenshot_reader,0,11,6720,2160,None,None,0,0,0,0,0
+20210329114249,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114244_d.png"><img src="/images/20210329114244_d.png" width="400px"></a>,screenshot_reader,0,11,6720,2160,None,None,0,0,0,0,0
+20210329114249,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114251,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,1.4774022102355957
+20210329114251,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114244_a.png"><img src="/images/20210329114244_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114249_a.png"><img src="/images/20210329114249_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114251,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114251,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114249_a.png"><img src="/images/20210329114249_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114253,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,2.4094090461730957
+20210329114258,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114249_a.png"><img src="/images/20210329114249_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114258,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114249_d.png"><img src="/images/20210329114249_d.png" width="400px"></a>,screenshot_reader,0,50,6720,2160,None,None,0,0,0,0,0
+20210329114258,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114249_d.png"><img src="/images/20210329114249_d.png" width="400px"></a>,screenshot_reader,0,50,6720,2160,None,None,0,0,0,0,0
+20210329114258,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114249_d.png"><img src="/images/20210329114249_d.png" width="400px"></a>,screenshot_reader,0,50,6720,2160,None,None,0,0,0,0,0
+20210329114258,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114301,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,2.447998285293579
+20210329114301,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114249_a.png"><img src="/images/20210329114249_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114259_a.png"><img src="/images/20210329114259_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114301,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114301,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114259_a.png"><img src="/images/20210329114259_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114305,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,4.273200988769531
+20210329114311,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114259_a.png"><img src="/images/20210329114259_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114311,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114259_d.png"><img src="/images/20210329114259_d.png" width="400px"></a>,screenshot_reader,21,11,6713,2034,None,None,0,0,0,0,0
+20210329114312,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114259_d.png"><img src="/images/20210329114259_d.png" width="400px"></a>,screenshot_reader,21,11,6713,2034,None,None,0,0,0,0,0
+20210329114312,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114312,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114259_d.png"><img src="/images/20210329114259_d.png" width="400px"></a>,screenshot_reader,21,11,6713,2034,None,None,0,0,0,0,0
+20210329114315,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,2.985013961791992
+20210329114315,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114259_a.png"><img src="/images/20210329114259_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114312_a.png"><img src="/images/20210329114312_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114315,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114315,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114312_a.png"><img src="/images/20210329114312_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114321,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,6.379695892333984
+20210329114329,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114312_a.png"><img src="/images/20210329114312_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114329,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114312_d.png"><img src="/images/20210329114312_d.png" width="400px"></a>,screenshot_reader,0,50,6720,2160,None,None,0,0,0,0,0
+20210329114329,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114312_d.png"><img src="/images/20210329114312_d.png" width="400px"></a>,screenshot_reader,0,50,6720,2160,None,None,0,0,0,0,0
+20210329114329,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114312_d.png"><img src="/images/20210329114312_d.png" width="400px"></a>,screenshot_reader,0,50,6720,2160,None,None,0,0,0,0,0
+20210329114329,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114347,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,18.125828742980957
+20210329114348,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114312_a.png"><img src="/images/20210329114312_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114330_a.png"><img src="/images/20210329114330_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114348,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114348,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114330_a.png"><img src="/images/20210329114330_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114355,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,7.238706827163696
+20210329114405,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114330_d.png"><img src="/images/20210329114330_d.png" width="400px"></a>,screenshot_reader,39,50,6720,2160,None,None,0,0,0,0,0
+20210329114405,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114330_a.png"><img src="/images/20210329114330_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114405,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114330_d.png"><img src="/images/20210329114330_d.png" width="400px"></a>,screenshot_reader,39,50,6720,2160,None,None,0,0,0,0,0
+20210329114406,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114330_d.png"><img src="/images/20210329114330_d.png" width="400px"></a>,screenshot_reader,39,50,6720,2160,None,None,0,0,0,0,0
+20210329114406,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114411,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,5.725800037384033
+20210329114411,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114330_a.png"><img src="/images/20210329114330_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114406_a.png"><img src="/images/20210329114406_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114412,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114412,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114406_a.png"><img src="/images/20210329114406_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114419,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,8.235674142837524
+20210329114429,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114406_d.png"><img src="/images/20210329114406_d.png" width="400px"></a>,screenshot_reader,21,50,6713,2160,None,None,0,0,0,0,0
+20210329114429,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114406_a.png"><img src="/images/20210329114406_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114429,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114406_d.png"><img src="/images/20210329114406_d.png" width="400px"></a>,screenshot_reader,21,50,6713,2160,None,None,0,0,0,0,0
+20210329114430,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114430,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114406_d.png"><img src="/images/20210329114406_d.png" width="400px"></a>,screenshot_reader,21,50,6713,2160,None,None,0,0,0,0,0
+20210329114437,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,8.307815790176392
+20210329114438,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114406_a.png"><img src="/images/20210329114406_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114431_a.png"><img src="/images/20210329114431_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114439,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114431_a.png"><img src="/images/20210329114431_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114439,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114450,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,11.691561937332153
+20210329114500,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114431_a.png"><img src="/images/20210329114431_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114500,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114431_d.png"><img src="/images/20210329114431_d.png" width="400px"></a>,screenshot_reader,0,56,6713,1901,None,None,0,0,0,0,0
+20210329114501,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114431_d.png"><img src="/images/20210329114431_d.png" width="400px"></a>,screenshot_reader,0,56,6713,1901,None,None,0,0,0,0,0
+20210329114501,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114502,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114431_d.png"><img src="/images/20210329114431_d.png" width="400px"></a>,screenshot_reader,0,56,6713,1901,None,None,0,0,0,0,0
+20210329114508,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,7.028296947479248
+20210329114508,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114431_a.png"><img src="/images/20210329114431_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114502_a.png"><img src="/images/20210329114502_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114509,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114502_a.png"><img src="/images/20210329114502_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114509,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114522,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,13.668514013290405
+20210329114533,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114502_d.png"><img src="/images/20210329114502_d.png" width="400px"></a>,screenshot_reader,872,51,6713,2089,None,None,0,0,0,0,0
+20210329114533,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114502_a.png"><img src="/images/20210329114502_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114533,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114502_d.png"><img src="/images/20210329114502_d.png" width="400px"></a>,screenshot_reader,872,51,6713,2089,None,None,0,0,0,0,0
+20210329114534,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114502_d.png"><img src="/images/20210329114502_d.png" width="400px"></a>,screenshot_reader,872,51,6713,2089,None,None,0,0,0,0,0
+20210329114534,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114541,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,7.726558208465576
+20210329114542,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114502_a.png"><img src="/images/20210329114502_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114535_a.png"><img src="/images/20210329114535_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114543,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114543,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114535_a.png"><img src="/images/20210329114535_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114555,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,12.277860879898071
+20210329114607,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114535_d.png"><img src="/images/20210329114535_d.png" width="400px"></a>,screenshot_reader,478,225,6713,2015,None,None,0,0,0,0,0
+20210329114607,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114535_a.png"><img src="/images/20210329114535_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114608,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114535_d.png"><img src="/images/20210329114535_d.png" width="400px"></a>,screenshot_reader,478,225,6713,2015,None,None,0,0,0,0,0
+20210329114609,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114609,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114535_d.png"><img src="/images/20210329114535_d.png" width="400px"></a>,screenshot_reader,478,225,6713,2015,None,None,0,0,0,0,0
+20210329114621,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,13.179224967956543
+20210329114622,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114535_a.png"><img src="/images/20210329114535_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114609_a.png"><img src="/images/20210329114609_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114623,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114609_a.png"><img src="/images/20210329114609_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114623,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114641,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,19.00421404838562
+20210329114654,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114609_d.png"><img src="/images/20210329114609_d.png" width="400px"></a>,screenshot_reader,0,50,6713,2160,None,None,0,0,0,0,0
+20210329114654,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114609_a.png"><img src="/images/20210329114609_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114655,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114609_d.png"><img src="/images/20210329114609_d.png" width="400px"></a>,screenshot_reader,0,50,6713,2160,None,None,0,0,0,0,0
+20210329114655,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114655,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114609_d.png"><img src="/images/20210329114609_d.png" width="400px"></a>,screenshot_reader,0,50,6713,2160,None,None,0,0,0,0,0
+20210329114708,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,12.143094062805176
+20210329114709,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114609_a.png"><img src="/images/20210329114609_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114657_a.png"><img src="/images/20210329114657_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114711,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114711,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114657_a.png"><img src="/images/20210329114657_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114727,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,18.22291398048401
+20210329114742,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114657_a.png"><img src="/images/20210329114657_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114742,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114657_d.png"><img src="/images/20210329114657_d.png" width="400px"></a>,screenshot_reader,1276,11,6713,2013,None,None,0,0,0,0,0
+20210329114743,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114657_d.png"><img src="/images/20210329114657_d.png" width="400px"></a>,screenshot_reader,1276,11,6713,2013,None,None,0,0,0,0,0
+20210329114744,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114744,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114657_d.png"><img src="/images/20210329114657_d.png" width="400px"></a>,screenshot_reader,1276,11,6713,2013,None,None,0,0,0,0,0
+20210329114755,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,11.957984924316406
+20210329114756,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114657_a.png"><img src="/images/20210329114657_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114745_a.png"><img src="/images/20210329114745_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114758,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114758,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114745_a.png"><img src="/images/20210329114745_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114821,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,24.385730743408203
+20210329114836,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114745_d.png"><img src="/images/20210329114745_d.png" width="400px"></a>,screenshot_reader,0,3,6720,2160,None,None,0,0,0,0,0
+20210329114836,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114745_a.png"><img src="/images/20210329114745_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114837,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114745_d.png"><img src="/images/20210329114745_d.png" width="400px"></a>,screenshot_reader,0,3,6720,2160,None,None,0,0,0,0,0
+20210329114838,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114745_d.png"><img src="/images/20210329114745_d.png" width="400px"></a>,screenshot_reader,0,3,6720,2160,None,None,0,0,0,0,0
+20210329114839,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114853,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,16.512837886810303
+20210329114854,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114745_a.png"><img src="/images/20210329114745_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114837_a.png"><img src="/images/20210329114837_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114855,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114855,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114837_a.png"><img src="/images/20210329114837_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114914,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,20.248969078063965
+20210329114924,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114837_d.png"><img src="/images/20210329114837_d.png" width="400px"></a>,screenshot_reader,4010,225,6713,1975,None,None,0,0,0,0,0
+20210329114924,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114837_a.png"><img src="/images/20210329114837_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114925,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114837_d.png"><img src="/images/20210329114837_d.png" width="400px"></a>,screenshot_reader,4010,225,6713,1975,None,None,0,0,0,0,0
+20210329114926,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114837_d.png"><img src="/images/20210329114837_d.png" width="400px"></a>,screenshot_reader,4010,225,6713,1975,None,None,0,0,0,0,0
+20210329114926,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329114940,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,14.66497802734375
+20210329114942,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114837_a.png"><img src="/images/20210329114837_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329114927_a.png"><img src="/images/20210329114927_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329114944,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114927_a.png"><img src="/images/20210329114927_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329114944,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115008,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,26.018924951553345
+20210329115020,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329114927_d.png"><img src="/images/20210329114927_d.png" width="400px"></a>,screenshot_reader,4013,225,6713,1981,None,None,0,0,0,0,0
+20210329115019,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329114927_a.png"><img src="/images/20210329114927_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115021,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329114927_d.png"><img src="/images/20210329114927_d.png" width="400px"></a>,screenshot_reader,4013,225,6713,1981,None,None,0,0,0,0,0
+20210329115023,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115022,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329114927_d.png"><img src="/images/20210329114927_d.png" width="400px"></a>,screenshot_reader,4013,225,6713,1981,None,None,0,0,0,0,0
+20210329115041,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,19.921952724456787
+20210329115042,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329114927_a.png"><img src="/images/20210329114927_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329115022_a.png"><img src="/images/20210329115022_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329115043,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115022_a.png"><img src="/images/20210329115022_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115043,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115113,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,30.847552061080933
+20210329115133,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329115022_d.png"><img src="/images/20210329115022_d.png" width="400px"></a>,screenshot_reader,0,3,6713,2160,None,None,0,0,0,0,0
+20210329115133,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329115022_d.png"><img src="/images/20210329115022_d.png" width="400px"></a>,screenshot_reader,0,3,6713,2160,None,None,0,0,0,0,0
+20210329115133,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329115022_a.png"><img src="/images/20210329115022_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115135,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115022_d.png"><img src="/images/20210329115022_d.png" width="400px"></a>,screenshot_reader,0,3,6713,2160,None,None,0,0,0,0,0
+20210329115134,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115149,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,13.130729913711548
+20210329115151,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329115022_a.png"><img src="/images/20210329115022_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329115137_a.png"><img src="/images/20210329115137_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329115151,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115151,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115137_a.png"><img src="/images/20210329115137_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115236,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,45.39322113990784
+20210329115244,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329115137_a.png"><img src="/images/20210329115137_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115245,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329115137_d.png"><img src="/images/20210329115137_d.png" width="400px"></a>,screenshot_reader,3002,154,6713,2013,None,None,0,0,0,0,0
+20210329115245,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329115137_d.png"><img src="/images/20210329115137_d.png" width="400px"></a>,screenshot_reader,3002,154,6713,2013,None,None,0,0,0,0,0
+20210329115247,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115137_d.png"><img src="/images/20210329115137_d.png" width="400px"></a>,screenshot_reader,3002,154,6713,2013,None,None,0,0,0,0,0
+20210329115248,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115304,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,18.98712706565857
+20210329115308,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329115137_a.png"><img src="/images/20210329115137_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329115248_a.png"><img src="/images/20210329115248_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329115310,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115248_a.png"><img src="/images/20210329115248_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115311,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115346,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,38.18221998214722
+20210329115401,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329115248_a.png"><img src="/images/20210329115248_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115401,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329115248_d.png"><img src="/images/20210329115248_d.png" width="400px"></a>,screenshot_reader,0,11,6720,2160,None,None,0,0,0,0,0
+20210329115402,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329115248_d.png"><img src="/images/20210329115248_d.png" width="400px"></a>,screenshot_reader,0,11,6720,2160,None,None,0,0,0,0,0
+20210329115403,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115403,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115248_d.png"><img src="/images/20210329115248_d.png" width="400px"></a>,screenshot_reader,0,11,6720,2160,None,None,0,0,0,0,0
+20210329115416,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,13.246447086334229
+20210329115420,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329115248_a.png"><img src="/images/20210329115248_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329115404_a.png"><img src="/images/20210329115404_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329115422,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115422,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115404_a.png"><img src="/images/20210329115404_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115455,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,35.768457889556885
+20210329115515,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329115404_d.png"><img src="/images/20210329115404_d.png" width="400px"></a>,screenshot_reader,44,3,6720,2160,None,None,0,0,0,0,0
+20210329115515,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329115404_a.png"><img src="/images/20210329115404_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115517,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329115404_d.png"><img src="/images/20210329115404_d.png" width="400px"></a>,screenshot_reader,44,3,6720,2160,None,None,0,0,0,0,0
+20210329115520,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115521,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115404_d.png"><img src="/images/20210329115404_d.png" width="400px"></a>,screenshot_reader,44,3,6720,2160,None,None,0,0,0,0,0
+20210329115537,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,19.821617126464844
+20210329115540,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329115404_a.png"><img src="/images/20210329115404_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329115521_a.png"><img src="/images/20210329115521_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329115542,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115542,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115521_a.png"><img src="/images/20210329115521_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115611,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,31.551975965499878
+20210329115633,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329115521_a.png"><img src="/images/20210329115521_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115633,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329115521_d.png"><img src="/images/20210329115521_d.png" width="400px"></a>,screenshot_reader,0,50,6720,2160,None,None,0,0,0,0,0
+20210329115636,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329115521_d.png"><img src="/images/20210329115521_d.png" width="400px"></a>,screenshot_reader,0,50,6720,2160,None,None,0,0,0,0,0
+20210329115637,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115639,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115521_d.png"><img src="/images/20210329115521_d.png" width="400px"></a>,screenshot_reader,0,50,6720,2160,None,None,0,0,0,0,0
+20210329115656,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,19.558658123016357
+20210329115658,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329115521_a.png"><img src="/images/20210329115521_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329115639_a.png"><img src="/images/20210329115639_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329115700,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115700,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115639_a.png"><img src="/images/20210329115639_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115731,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,32.32957696914673
+20210329115751,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329115639_d.png"><img src="/images/20210329115639_d.png" width="400px"></a>,screenshot_reader,0,9,6713,2133,None,None,0,0,0,0,0
+20210329115750,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329115639_a.png"><img src="/images/20210329115639_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115752,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329115639_d.png"><img src="/images/20210329115639_d.png" width="400px"></a>,screenshot_reader,0,9,6713,2133,None,None,0,0,0,0,0
+20210329115758,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115758,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115639_d.png"><img src="/images/20210329115639_d.png" width="400px"></a>,screenshot_reader,0,9,6713,2133,None,None,0,0,0,0,0
+20210329115815,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,21.802819967269897
+20210329115816,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329115639_a.png"><img src="/images/20210329115639_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329115755_a.png"><img src="/images/20210329115755_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329115819,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115819,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115755_a.png"><img src="/images/20210329115755_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115844,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,27.98826289176941
+20210329115902,FormateScreenshot.py,going up to find parent screenshot for ,<a href="/images/20210329115755_d.png"><img src="/images/20210329115755_d.png" width="400px"></a>,screenshot_reader,574,11,6713,2135,None,None,0,0,0,0,0
+20210329115902,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329115755_a.png"><img src="/images/20210329115755_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115905,FormateScreenshot.py,it should not be possible but there is no parent for ,<a href="/images/20210329115755_d.png"><img src="/images/20210329115755_d.png" width="400px"></a>,screenshot_reader,574,11,6713,2135,None,None,0,0,0,0,0
+20210329115909,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115755_d.png"><img src="/images/20210329115755_d.png" width="400px"></a>,screenshot_reader,574,11,6713,2135,None,None,0,0,0,0,0
+20210329115909,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115926,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,21.37556290626526
+20210329115928,FormateScreenshot.py,Replace Screenshot,<a href="/images/20210329115755_a.png"><img src="/images/20210329115755_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,<a href="/images/20210329115906_a.png"><img src="/images/20210329115906_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,0
+20210329115929,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115929,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,<a href="/images/20210329115906_a.png"><img src="/images/20210329115906_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210329115954,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210329115957,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,29.04471492767334
+20210329120021,FormateScreenReaderMss.py,Screen change detection,<a href="/images/20210329115906_a.png"><img src="/images/20210329115906_a.png" width="400px"></a>,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0

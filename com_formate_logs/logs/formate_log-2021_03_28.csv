@@ -1,0 +1,159 @@
+20210328173437,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173437,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173437,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173438,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,0.7492618560791016
+20210328173438,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173438,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173437_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173502,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,24.167803287506104
+20210328173505,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173437_d.png,screenshot_reader,0,9,6720,2093,None,None,0,0,0,0,0
+20210328173505,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173437_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173505,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173437_d.png,screenshot_reader,0,9,6720,2093,None,None,0,0,0,0,0
+20210328173505,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173437_d.png,screenshot_reader,0,9,6720,2093,None,None,0,0,0,0,0
+20210328173505,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173507,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,1.4021580219268799
+20210328173507,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173437_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173505_a.png,screenshot_reader,0,0,3360,1080,0
+20210328173507,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173505_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173507,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173509,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,2.5549890995025635
+20210328173514,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173505_d.png,screenshot_reader,0,50,6720,2056,None,None,0,0,0,0,0
+20210328173514,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173505_d.png,screenshot_reader,0,50,6720,2056,None,None,0,0,0,0,0
+20210328173514,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173505_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173514,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173505_d.png,screenshot_reader,0,50,6720,2056,None,None,0,0,0,0,0
+20210328173514,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173517,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,2.4148130416870117
+20210328173517,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173505_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173514_a.png,screenshot_reader,0,0,3360,1080,0
+20210328173517,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173517,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173514_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173520,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,3.4597971439361572
+20210328173526,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173514_d.png,screenshot_reader,42,50,6720,2056,None,None,0,0,0,0,0
+20210328173526,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173514_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173526,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173514_d.png,screenshot_reader,42,50,6720,2056,None,None,0,0,0,0,0
+20210328173526,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173526,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173514_d.png,screenshot_reader,42,50,6720,2056,None,None,0,0,0,0,0
+20210328173528,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,2.703001022338867
+20210328173529,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173514_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173526_a.png,screenshot_reader,0,0,3360,1080,0
+20210328173529,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173526_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173529,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173531,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173534,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,5.133497714996338
+20210328173541,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173526_d.png,screenshot_reader,1049,0,6713,1869,None,None,0,0,0,0,0
+20210328173541,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173526_d.png,screenshot_reader,1049,0,6713,1869,None,None,0,0,0,0,0
+20210328173541,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173526_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173541,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173541,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173526_d.png,screenshot_reader,1049,0,6713,1869,None,None,0,0,0,0,0
+20210328173542,FormateTransparentGlass.py,Refresh,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173559,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,17.682289123535156
+20210328173559,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173526_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173542_a.png,screenshot_reader,0,0,3360,1080,0
+20210328173600,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173542_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173600,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173605,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,5.486166000366211
+20210328173612,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173542_d.png,screenshot_reader,478,8,6720,2092,None,None,0,0,0,0,0
+20210328173612,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173542_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173613,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173542_d.png,screenshot_reader,478,8,6720,2092,None,None,0,0,0,0,0
+20210328173613,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173613,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173542_d.png,screenshot_reader,478,8,6720,2092,None,None,0,0,0,0,0
+20210328173618,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,5.867215156555176
+20210328173619,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173542_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173613_a.png,screenshot_reader,0,0,3360,1080,0
+20210328173619,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173619,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173613_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173627,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,8.374960899353027
+20210328173637,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173613_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173637,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173613_d.png,screenshot_reader,0,50,6720,2048,None,None,0,0,0,0,0
+20210328173638,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173613_d.png,screenshot_reader,0,50,6720,2048,None,None,0,0,0,0,0
+20210328173638,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173638,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173613_d.png,screenshot_reader,0,50,6720,2048,None,None,0,0,0,0,0
+20210328173642,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,4.2366602420806885
+20210328173642,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173613_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173638_a.png,screenshot_reader,0,0,3360,1080,0
+20210328173643,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173643,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173638_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173650,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,7.721853256225586
+20210328173659,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173638_d.png,screenshot_reader,40,50,6719,2043,None,None,0,0,0,0,0
+20210328173659,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173638_d.png,screenshot_reader,40,50,6719,2043,None,None,0,0,0,0,0
+20210328173659,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173638_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173700,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173700,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173638_d.png,screenshot_reader,40,50,6719,2043,None,None,0,0,0,0,0
+20210328173706,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,6.009529113769531
+20210328173707,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173638_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173700_a.png,screenshot_reader,0,0,3360,1080,0
+20210328173707,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173700_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173707,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173714,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,7.972311019897461
+20210328173724,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173700_d.png,screenshot_reader,27,50,6720,2048,None,None,0,0,0,0,0
+20210328173724,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173700_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173724,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173700_d.png,screenshot_reader,27,50,6720,2048,None,None,0,0,0,0,0
+20210328173725,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173700_d.png,screenshot_reader,27,50,6720,2048,None,None,0,0,0,0,0
+20210328173725,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173734,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,9.622870206832886
+20210328173735,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173700_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173726_a.png,screenshot_reader,0,0,3360,1080,0
+20210328173736,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173736,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173726_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173753,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,17.827880859375
+20210328173806,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173726_d.png,screenshot_reader,478,57,6700,2048,None,None,0,0,0,0,0
+20210328173806,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173726_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173806,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173726_d.png,screenshot_reader,478,57,6700,2048,None,None,0,0,0,0,0
+20210328173807,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173807,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173726_d.png,screenshot_reader,478,57,6700,2048,None,None,0,0,0,0,0
+20210328173816,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,9.580073118209839
+20210328173817,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173726_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173808_a.png,screenshot_reader,0,0,3360,1080,0
+20210328173818,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173808_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173818,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173829,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,12.06893801689148
+20210328173840,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173808_d.png,screenshot_reader,478,9,6720,2093,None,None,0,0,0,0,0
+20210328173840,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173808_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173841,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173808_d.png,screenshot_reader,478,9,6720,2093,None,None,0,0,0,0,0
+20210328173842,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173808_d.png,screenshot_reader,478,9,6720,2093,None,None,0,0,0,0,0
+20210328173842,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173851,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,8.631442070007324
+20210328173852,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173808_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173843_a.png,screenshot_reader,0,0,3360,1080,0
+20210328173853,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173843_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173853,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173908,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,16.298989057540894
+20210328173918,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173843_d.png,screenshot_reader,478,9,6720,2093,None,None,0,0,0,0,0
+20210328173918,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173843_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173919,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173843_d.png,screenshot_reader,478,9,6720,2093,None,None,0,0,0,0,0
+20210328173920,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173920,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173843_d.png,screenshot_reader,478,9,6720,2093,None,None,0,0,0,0,0
+20210328173931,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,12.556374788284302
+20210328173932,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173843_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173920_a.png,screenshot_reader,0,0,3360,1080,0
+20210328173933,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328173933,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173920_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328173948,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,16.453199863433838
+20210328174000,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173920_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328174000,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173920_d.png,screenshot_reader,0,47,6700,2048,None,None,0,0,0,0,0
+20210328174001,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173920_d.png,screenshot_reader,0,47,6700,2048,None,None,0,0,0,0,0
+20210328174002,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173920_d.png,screenshot_reader,0,47,6700,2048,None,None,0,0,0,0,0
+20210328174002,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328174015,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,14.006288051605225
+20210328174017,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328173920_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174003_a.png,screenshot_reader,0,0,3360,1080,0
+20210328174019,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328174019,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174003_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328174036,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,19.06916093826294
+20210328174055,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174003_d.png,screenshot_reader,665,9,6720,2093,None,None,0,0,0,0,0
+20210328174055,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174003_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328174056,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174003_d.png,screenshot_reader,665,9,6720,2093,None,None,0,0,0,0,0
+20210328174058,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328174058,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174003_d.png,screenshot_reader,665,9,6720,2093,None,None,0,0,0,0,0
+20210328174110,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,14.696151971817017
+20210328174112,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174003_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174059_a.png,screenshot_reader,0,0,3360,1080,0
+20210328174113,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328174113,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174059_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328174129,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,17.04128885269165
+20210328174145,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174059_d.png,screenshot_reader,276,0,6720,2048,None,None,0,0,0,0,0
+20210328174145,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174059_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328174145,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174059_d.png,screenshot_reader,276,0,6720,2048,None,None,0,0,0,0,0
+20210328174147,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174059_d.png,screenshot_reader,276,0,6720,2048,None,None,0,0,0,0,0
+20210328174148,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328174154,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,7.789210081100464
+20210328174156,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174059_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174150_a.png,screenshot_reader,0,0,3360,1080,0
+20210328174156,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174150_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328174156,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328174211,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,15.174084186553955
+20210328174225,FormateScreenshot.py,going up to find parent screenshot for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174150_d.png,screenshot_reader,478,0,6720,2048,None,None,0,0,0,0,0
+20210328174225,FormateScreenReaderMss.py,Screen change detection,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174150_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328174225,FormateScreenshot.py,it should not be possible but there is no parent for ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174150_d.png,screenshot_reader,478,0,6720,2048,None,None,0,0,0,0,0
+20210328174227,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328174227,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174150_d.png,screenshot_reader,478,0,6720,2048,None,None,0,0,0,0,0
+20210328174239,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 1,None,None,0,0,0,0,None,None,0,0,0,0,12.433627843856812
+20210328174240,FormateScreenshot.py,Replace Screenshot,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174150_a.png,screenshot_reader,0,0,3360,1080,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174230_a.png,screenshot_reader,0,0,3360,1080,0
+20210328174242,FormateScreenshot.py,Executing Tesseract from FormateScreenshot thread ,file:///Users/goldenthinker/Projects/formate-spyder/images/20210328174230_a.png,screenshot_reader,0,0,3360,1080,None,None,0,0,0,0,0
+20210328174242,FormateTransparentGlass.py,new screenshot starting thread,None,None,0,0,0,0,None,None,0,0,0,0,0
+20210328174259,FormateScreenReaderMss.py,Time take from FormateScreenshotReader 2,None,None,0,0,0,0,None,None,0,0,0,0,19.53008198738098
